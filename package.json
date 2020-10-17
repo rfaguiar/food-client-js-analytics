@@ -1,0 +1,20 @@
+{
+  "name": "food-client-js-analytics",
+  "version": "1.0.0",
+  "description": "Projeto para testar cliente com Resource Authorization Code Flow com Spring Secutiry",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfaguiar/food-client-js-analytics.git"
+  },
+  "author": "Rogerio Aguiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfaguiar/food-client-js-analytics/issues"
+  },
+  "homepage": "https://github.com/rfaguiar/food-client-js-analytics#readme"
+}
